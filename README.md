@@ -1,3 +1,8 @@
+Epdiy Terminal
+===============
+
+Implements a serial terminal on an [epdiy](https://github.com/vroland/epdiy) ePaper controller.
+
 Quickstart:
 
 1. Build and flush: `idf.py build && idf.py flash -b 921600`
